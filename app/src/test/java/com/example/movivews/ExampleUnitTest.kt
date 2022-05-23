@@ -1,4 +1,4 @@
-package com.example.mynews
+package com.example.movivews
 
 import org.junit.Test
 
